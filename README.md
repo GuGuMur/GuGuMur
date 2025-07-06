@@ -7,5 +7,7 @@
 - 🎵 Favored music: TouHou Project's OST (as well as some Fanmade Games!), Eurobeat, Artcore
 
 ----
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
-![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai)
+<!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
