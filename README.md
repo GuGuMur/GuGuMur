@@ -10,7 +10,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-52%20hrs%2014%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-5-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
 **🐱 My GitHub Data** 
 
@@ -51,17 +51,13 @@ Sunday                   232 commits         ███████████�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   59 mins             █████████████████████████   99.72 % 
-TOML                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  59 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-SklandSDK                48 mins             ████████████████████░░░░░   80.71 % 
-nonebot-plugin-skland-ark9 mins              ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
-mwbot                    1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2025.25.08/13/25 08:25:46 UTC
+ Last Updated on 2025.26.08/14/25 08:26:06 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
