@@ -16,8 +16,6 @@
 
 > 📦 3.3 kB Used in GitHub's Storage 
  > 
-> 🏆 54 Contributions in the Year 2025
- > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 38 Public Repositories 
@@ -84,7 +82,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2025.23.09/03/25 08:23:04 UTC
+ Last Updated on 2025.22.09/04/25 08:22:24 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
