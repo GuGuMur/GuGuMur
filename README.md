@@ -51,17 +51,13 @@ Sunday                   237 commits         ███████████�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   24 mins             █████████████████████████   99.47 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.53 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  24 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-hjhk_trapedit            22 mins             ███████████████████████░░   93.38 % 
-Unknown Project          1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   05.53 % 
-prts                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-trapper-script           0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -81,7 +77,7 @@ HTML                     1 repo              █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2025.19.10/05/25 08:19:55 UTC
+ Last Updated on 2025.23.10/06/25 08:23:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
