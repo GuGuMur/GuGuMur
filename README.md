@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🧐 I'm GuGuMur（咕咕mur）, or HevCateon (`cat` + pig`eon`).
+- 🧐 I'm GuGuMur（咕咕mur）, or HevCateon.
 - 🌱 Currently learning CSS & C(C++) & Go & Rust...
 - 🤖 Freshman in AI field!
 - 🤔 Trying to put ideas into practice...
