@@ -1,10 +1,12 @@
 ### Hi there 👋
 
-- 🧐 I'm GuGuMur（咕咕mur）, or Cateon (`cat` + pig`eon`) Huo.
-- 🌱 I'm currently learning CSS & TS & C(C++)...
+- 🧐 I'm GuGuMur（咕咕mur）, or HevCateon (`cat` + pig`eon`).
+- 🌱 Currently learning CSS & C(C++) & Go & Rust...
+- 🤖 Freshman in AI field!
 - 🤔 Trying to put ideas into practice...
-- 🎮 Game in progress: Arknights(CN), ~Arcaea~, osu!, Danmaku Kagura, TouHou Project STGs(as well as Fanmade Games)
-- 🎵 Favored music: TouHou Project's OST (as well as some Fanmade Games!), Eurobeat, Artcore
+- 🎮 Game in progress: Arknights(CN), Touhou Official/Fan Games
+- 🎵 Favored music: Touhou Official/Fan music, Eurobeat, Artcore, Symphony
+- 🎻 Classical music player: Violin & Viola
 
 ----
 <!--START_SECTION:waka-->
