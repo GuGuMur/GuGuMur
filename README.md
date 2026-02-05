@@ -4,7 +4,7 @@
 - 🌱 Currently learning CSS & C(C++) & Go & Rust...
 - 🤖 Freshman in AI field!
 - 🤔 Trying to put ideas into practice...
-- 🎮 Game in progress: Arknights(CN), Touhou Official/Fan Games
+- 🎮 Game in progress: Arknights(CN), Touhou Official/Fan Games, Roguelike
 - 🎵 Favored music: Touhou Official/Fan music, Eurobeat, Artcore, Symphony
 - 🎻 Classical music player: Violin & Viola
 
