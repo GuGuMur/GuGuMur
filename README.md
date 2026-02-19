@@ -1,10 +1,10 @@
 ### Hi there 👋
 
 - 🧐 I'm GuGuMur（咕咕mur）, or HevCateon.
-- 🌱 Currently learning CSS & C(C++) & Go & Rust...
+- 🌱 WHU; Learning CSS & C(C++) & Go & Rust...
 - 🤖 Freshman in AI field!
-- 🤔 Trying to put ideas into practice...
-- 🎮 Game in progress: Arknights(CN), Touhou Official/Fan Games, Roguelike
+- 💻 OS: Windows 11 & Zorin OS(Ubuntu)
+- 🎮 Game in progress: Arknights(CN), Touhou Official/Fan Games, Roguelike [[Steam](https://steamcommunity.com/id/GuGuMur/)]
 - 🎵 Favored music: Touhou Official/Fan music, Eurobeat, Artcore, Symphony
 - 🎻 Classical music player: Violin & Viola
 
