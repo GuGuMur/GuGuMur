@@ -9,6 +9,10 @@
 - 🎻 Classical music player: Violin & Viola
 
 ----
+<details>
+
+<summary>Coding Summary [wakatime]</summary>
+
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-552%20hrs%207%20mins-blue?style=flat)
 
@@ -93,3 +97,5 @@ Rust                     1 repo              █░░░░░░░░░░�
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
+
+</details>
