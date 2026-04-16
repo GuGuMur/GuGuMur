@@ -1,6 +1,9 @@
 ### Hi there 👋
 
-- 🧐 I'm GuGuMur（咕咕mur）, or HevCateon.
+- 🧐 I'm...
+  -  咕咕mur / GuGuMur: Combination of Arknights Operator [Ptilopsis (白面鸮)](https://prts.wiki/w/白面鸮) and meme [MUR Cat](https://zh.moegirl.org.cn/MUR猫).
+     -  Conceived during the COVID-19 while attending online lectures.
+  -  HevCateon: **H**uo + **D**ev + **Cat** + Pig**eon** 
 - 🌱 WHU; Learning CSS & C(C++) & Go & Rust...
 - 🤖 Freshman in AI field!
 - 💻 OS: Windows 11 & Zorin OS(Ubuntu)
