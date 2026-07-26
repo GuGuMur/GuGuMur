@@ -17,7 +17,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C161%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%205%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
 
@@ -60,24 +60,24 @@ Sunday                   358 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Markdown                 14 hrs 55 mins      ████████░░░░░░░░░░░░░░░░░   32.76 % 
-Other                    14 hrs 18 mins      ████████░░░░░░░░░░░░░░░░░   31.42 % 
-Python                   12 hrs 17 mins      ███████░░░░░░░░░░░░░░░░░░   26.99 % 
-JSON                     3 hrs 51 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.46 % 
-Java                     6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
+Other                    15 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.47 % 
+Python                   14 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   34.10 % 
+Markdown                 8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
+JSON                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
+YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 
 🔥 Editors: 
-Edge                     14 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.34 % 
-VS Code                  14 hrs 43 mins      ████████░░░░░░░░░░░░░░░░░   32.33 % 
-Codex CLI                13 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   29.79 % 
-Claude Code              2 hrs 31 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.54 % 
+Edge                     16 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
+Codex CLI                14 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
+VS Code                  9 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
+Claude Code              2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
 
 🐱‍💻 Projects: 
-quantum-ama-project      39 hrs 17 mins      ██████████████████████░░░   86.23 % 
-codex                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-ZenlessTools             1 hr 19 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   02.89 % 
-Luotopia-Server          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
-cc-switch                56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+quantum-ama-project      33 hrs 28 mins      ████████████████████░░░░░   79.33 % 
+ZenlessTools             2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+codex                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
+Luotopia-Server          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
+cc-switch                50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.45.07/25/26 09:45:44 UTC
+ Last Updated on 2026.58.07/26/26 09:58:14 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
