@@ -17,40 +17,40 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C166%20hrs%205%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2053%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.6 kB Used in GitHub's Storage 
+> 📦 175.8 kB Used in GitHub's Storage 
  > 
-> 🏆 861 Contributions in the Year 2026
+> 🏆 863 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 72 Public Repositories 
+> 📜 73 Public Repositories 
  > 
-> 🔑 9 Private Repositories 
+> 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.27 % 
-🌆 Daytime                532 commits         █████████░░░░░░░░░░░░░░░░   37.60 % 
-🌃 Evening                558 commits         ██████████░░░░░░░░░░░░░░░   39.43 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.70 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
+🌆 Daytime                532 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
+🌃 Evening                543 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   199 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-Tuesday                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.51 % 
-Wednesday                102 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
-Thursday                 275 commits         █████░░░░░░░░░░░░░░░░░░░░   19.43 % 
-Friday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.70 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.78 % 
-Sunday                   358 commits         ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
+Tuesday                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
+Wednesday                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
+Thursday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Friday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
+Sunday                   359 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
 ```
 
 
@@ -60,24 +60,24 @@ Sunday                   358 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    15 hrs 48 mins      █████████░░░░░░░░░░░░░░░░   37.47 % 
-Python                   14 hrs 23 mins      █████████░░░░░░░░░░░░░░░░   34.10 % 
-Markdown                 8 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   20.83 % 
-JSON                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
-YAML                     38 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
+Python                   17 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
+Other                    14 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
+Markdown                 6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
+JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
 
 🔥 Editors: 
-Edge                     16 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   38.50 % 
-Codex CLI                14 hrs 8 mins       ████████░░░░░░░░░░░░░░░░░   33.50 % 
-VS Code                  9 hrs 17 mins       ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Claude Code              2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.01 % 
+Codex CLI                17 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
+Edge                     15 hrs              █████████░░░░░░░░░░░░░░░░   36.16 % 
+VS Code                  7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Claude Code              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
 
 🐱‍💻 Projects: 
-quantum-ama-project      33 hrs 28 mins      ████████████████████░░░░░   79.33 % 
-ZenlessTools             2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-codex                    2 hrs 2 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.83 % 
-Luotopia-Server          57 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.27 % 
-cc-switch                50 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
+quantum-ama-project      34 hrs 52 mins      █████████████████████░░░░   84.03 % 
+ZenlessTools             2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
+bot                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
+chatgpt-register-k12     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
+Luotopia-Server          43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +97,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.58.07/26/26 09:58:14 UTC
+ Last Updated on 2026.19.07/27/26 11:19:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
