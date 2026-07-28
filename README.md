@@ -17,13 +17,11 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C173%20hrs%2053%20mins-blue?style=flat)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
-> 📦 175.8 kB Used in GitHub's Storage 
+> 📦 175.9 kB Used in GitHub's Storage 
  > 
 > 🏆 863 Contributions in the Year 2026
  > 
@@ -36,21 +34,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.43 % 
-🌆 Daytime                532 commits         ██████████░░░░░░░░░░░░░░░   38.00 % 
-🌃 Evening                543 commits         ██████████░░░░░░░░░░░░░░░   38.79 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.79 % 
+🌞 Morning                216 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.45 % 
+🌆 Daytime                530 commits         █████████░░░░░░░░░░░░░░░░   37.91 % 
+🌃 Evening                543 commits         ██████████░░░░░░░░░░░░░░░   38.84 % 
+🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   190 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.57 % 
-Tuesday                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.57 % 
-Wednesday                93 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Thursday                 277 commits         █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
-Friday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.86 % 
-Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.93 % 
-Sunday                   359 commits         ██████░░░░░░░░░░░░░░░░░░░   25.64 % 
+Monday                   191 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.66 % 
+Tuesday                  78 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.58 % 
+Wednesday                94 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.72 % 
+Thursday                 275 commits         █████░░░░░░░░░░░░░░░░░░░░   19.67 % 
+Friday                   208 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.88 % 
+Saturday                 195 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.95 % 
+Sunday                   357 commits         ██████░░░░░░░░░░░░░░░░░░░   25.54 % 
 ```
 
 
@@ -60,24 +58,49 @@ Sunday                   359 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Python                   17 hrs 31 mins      ███████████░░░░░░░░░░░░░░   42.21 % 
-Other                    14 hrs 27 mins      █████████░░░░░░░░░░░░░░░░   34.84 % 
-Markdown                 6 hrs 19 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.22 % 
-JSON                     2 hrs 4 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
-YAML                     40 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.62 % 
+Python                   18 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   41.52 % 
+Other                    17 hrs 30 mins      ██████████░░░░░░░░░░░░░░░   39.21 % 
+Markdown                 6 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.18 % 
+JSON                     1 hr 5 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.45 % 
+YAML                     42 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.60 % 
 
 🔥 Editors: 
-Codex CLI                17 hrs 21 mins      ██████████░░░░░░░░░░░░░░░   41.84 % 
-Edge                     15 hrs              █████████░░░░░░░░░░░░░░░░   36.16 % 
-VS Code                  7 hrs 29 mins       █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
-Claude Code              1 hr 38 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
+Codex CLI                21 hrs 15 mins      ████████████░░░░░░░░░░░░░   47.60 % 
+Edge                     18 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   40.91 % 
+VS Code                  3 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.90 % 
+Claude Code              1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
 
 🐱‍💻 Projects: 
-quantum-ama-project      34 hrs 52 mins      █████████████████████░░░░   84.03 % 
-ZenlessTools             2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.76 % 
-bot                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.67 % 
-chatgpt-register-k12     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.82 % 
-Luotopia-Server          43 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.76 % 
+quantum-ama-project      38 hrs 35 mins      ██████████████████████░░░   86.40 % 
+ZenlessTools             2 hrs 48 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.28 % 
+bot                      1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   02.48 % 
+chatgpt-register-k12     45 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+minitorch                33 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.24 % 
+```
+
+🤖 **AI Coding This Week** 
+
+```text
+⏱ AI Coding Time: 25 hrs 34 mins (57.25%)
+
+✍️ 63,385 lines written by AI, 927 lines written by hand (98.56% AI-written)
+
+🔤 2,040,637,810 Input Tokens, 8,888,373 Output Tokens
+
+💵 $3033.43 Estimated AI Cost This Week
+
+🧠 46 AI Sessions, 133 AI Prompts
+
+GPT                      57,652 lines        ███████████████████████░░   90.83 % 
+Codex-Cli                3,582 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
+Grok                     2,240 lines         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 % 
+Deepseek                 0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 98.56% of written lines came from AI
+📄 Detailed Prompter — average 1,267 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 1.43% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -97,7 +120,7 @@ Dart                     2 repos             █░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.19.07/27/26 11:19:29 UTC
+ Last Updated on 2026.33.07/28/26 10:33:34 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
