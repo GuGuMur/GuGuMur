@@ -17,9 +17,9 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-989%20hrs%2016%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2018%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-701%20hrs%2019%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-707%20hrs%2036%20mins-blue?style=flat)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
@@ -62,39 +62,39 @@ Sunday                   393 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 35 mins      █████████░░░░░░░░░░░░░░░░   36.93 % 
-TypeScript               15 hrs 38 mins      █████░░░░░░░░░░░░░░░░░░░░   21.72 % 
-Markdown                 6 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.18 % 
-Dart                     6 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
-Go                       3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+Other                    19 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.99 % 
+TypeScript               15 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
+Markdown                 6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
+Dart                     5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
+Go                       3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
 
 🔥 Editors: 
-VS Code                  27 hrs 22 mins      ██████████░░░░░░░░░░░░░░░   38.01 % 
-Codex CLI                19 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   26.67 % 
-Edge                     14 hrs 16 mins      █████░░░░░░░░░░░░░░░░░░░░   19.83 % 
-Codex Vscode             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.77 % 
-Claude Code              5 hrs 33 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 % 
+Codex CLI                19 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.60 % 
+VS Code                  17 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   27.08 % 
+Edge                     16 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 % 
+Codex Vscode             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
+Claude Code              5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
 
 🐱‍💻 Projects: 
-FastWrite                23 hrs 42 mins      ████████░░░░░░░░░░░░░░░░░   32.91 % 
-openwrt-whu              15 hrs 32 mins      █████░░░░░░░░░░░░░░░░░░░░   21.58 % 
-Luotopia-app             10 hrs 23 mins      ████░░░░░░░░░░░░░░░░░░░░░   14.43 % 
-Luotopia-Server          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-WMPFDebugger             2 hrs 48 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+FastWrite                23 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
+Luotopia-app             12 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
+openwrt-whu              5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
+Luotopia-Server          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
+WMPFDebugger             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 57 hrs 17 mins (79.54%)
+⏱ AI Coding Time: 47 hrs 27 mins (73.14%)
 
 ✍️ 26,133 lines written by AI, 4 lines written by hand (99.98% AI-written)
 
-🔤 1,069,509,448 Input Tokens, 5,446,455 Output Tokens
+🔤 357,986,138 Input Tokens, 4,560,446 Output Tokens
 
-💵 $9180.61 Estimated AI Cost This Week
+💵 $6520.76 Estimated AI Cost This Week
 
-🧠 97 AI Sessions, 266 AI Prompts
+🧠 91 AI Sessions, 265 AI Prompts
 
 Deepseek                 14,605 lines        █████████████████░░░░░░░░   69.43 % 
 GPT                      6,134 lines         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
@@ -104,7 +104,7 @@ Codex-Cli                23 lines            ░░░░░░░░░░░�
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,166 characters per prompt
+📄 Detailed Prompter — average 1,170 characters per prompt
 🔁 Iterative Prompter — average 3 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
@@ -126,7 +126,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.07.09/22/26 13:07:27 UTC
+ Last Updated on 2026.23.09/23/26 13:23:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
