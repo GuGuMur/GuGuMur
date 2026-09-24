@@ -17,7 +17,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2018%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-996%20hrs%2040%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-707%20hrs%2036%20mins-blue?style=flat)
 
@@ -27,7 +27,7 @@
 
 > 📦 183.5 kB Used in GitHub's Storage 
  > 
-> 🏆 910 Contributions in the Year 2026
+> 🏆 919 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
-🌆 Daytime                577 commits         █████████░░░░░░░░░░░░░░░░   37.57 % 
-🌃 Evening                609 commits         ██████████░░░░░░░░░░░░░░░   39.65 % 
-🌙 Night                  109 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+🌞 Morning                241 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.61 % 
+🌆 Daytime                577 commits         █████████░░░░░░░░░░░░░░░░   37.37 % 
+🌃 Evening                616 commits         ██████████░░░░░░░░░░░░░░░   39.90 % 
+🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.12 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.15 % 
-Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.25 % 
-Wednesday                114 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.42 % 
-Thursday                 296 commits         █████░░░░░░░░░░░░░░░░░░░░   19.27 % 
-Friday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.04 % 
-Saturday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.28 % 
-Sunday                   393 commits         ██████░░░░░░░░░░░░░░░░░░░   25.59 % 
+Monday                   202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.08 % 
+Tuesday                  96 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
+Wednesday                121 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
+Thursday                 297 commits         █████░░░░░░░░░░░░░░░░░░░░   19.24 % 
+Friday                   231 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.96 % 
+Saturday                 204 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Sunday                   393 commits         ██████░░░░░░░░░░░░░░░░░░░   25.45 % 
 ```
 
 
@@ -62,61 +62,61 @@ Sunday                   393 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    19 hrs 27 mins      ███████░░░░░░░░░░░░░░░░░░   29.99 % 
-TypeScript               15 hrs 38 mins      ██████░░░░░░░░░░░░░░░░░░░   24.11 % 
-Markdown                 6 hrs 36 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.19 % 
-Dart                     5 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.09 % 
-Go                       3 hrs 51 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.95 % 
+Other                    18 hrs 12 mins      ████████░░░░░░░░░░░░░░░░░   31.01 % 
+TypeScript               13 hrs 41 mins      ██████░░░░░░░░░░░░░░░░░░░   23.32 % 
+Dart                     5 hrs 54 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Markdown                 5 hrs 37 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.59 % 
+Go                       3 hrs 36 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.15 % 
 
 🔥 Editors: 
-Codex CLI                19 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   29.60 % 
-VS Code                  17 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   27.08 % 
-Edge                     16 hrs 58 mins      ███████░░░░░░░░░░░░░░░░░░   26.17 % 
-Codex Vscode             5 hrs 35 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.62 % 
-Claude Code              5 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 % 
+Edge                     15 hrs 40 mins      ███████░░░░░░░░░░░░░░░░░░   26.71 % 
+Codex CLI                15 hrs 32 mins      ███████░░░░░░░░░░░░░░░░░░   26.47 % 
+VS Code                  14 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
+Codex Vscode             7 hrs 57 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.56 % 
+Claude Code              4 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.04 % 
 
 🐱‍💻 Projects: 
-FastWrite                23 hrs 40 mins      █████████░░░░░░░░░░░░░░░░   36.49 % 
-Luotopia-app             12 hrs 51 mins      █████░░░░░░░░░░░░░░░░░░░░   19.82 % 
-openwrt-whu              5 hrs 44 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.85 % 
-Luotopia-Server          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.52 % 
-WMPFDebugger             3 hrs 46 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.81 % 
+FastWrite                22 hrs 32 mins      ██████████░░░░░░░░░░░░░░░   38.41 % 
+Luotopia-app             12 hrs 42 mins      █████░░░░░░░░░░░░░░░░░░░░   21.64 % 
+Luotopia-Server          5 hrs 31 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
+WMPFDebugger             2 hrs 55 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+whu-cslabcg-prettier     2 hrs 29 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   04.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 47 hrs 27 mins (73.14%)
+⏱ AI Coding Time: 42 hrs 33 mins (72.5%)
 
-✍️ 26,133 lines written by AI, 4 lines written by hand (99.98% AI-written)
+✍️ 24,649 lines written by AI, 5 lines written by hand (99.98% AI-written)
 
-🔤 357,986,138 Input Tokens, 4,560,446 Output Tokens
+🔤 160,039,084 Input Tokens, 4,051,699 Output Tokens
 
-💵 $6520.76 Estimated AI Cost This Week
+💵 $3571.51 Estimated AI Cost This Week
 
-🧠 91 AI Sessions, 265 AI Prompts
+🧠 121 AI Sessions, 273 AI Prompts
 
-Deepseek                 14,605 lines        █████████████████░░░░░░░░   69.43 % 
-GPT                      6,134 lines         ███████░░░░░░░░░░░░░░░░░░   29.16 % 
-Claude-Code              141 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.67 % 
-Codex-Vscode             134 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 % 
-Codex-Cli                23 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Deepseek                 14,605 lines        ██████████████████░░░░░░░   73.57 % 
+GPT                      4,508 lines         ██████░░░░░░░░░░░░░░░░░░░   22.71 % 
+Codex-Vscode             720 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.63 % 
+Codex-Cli                18 lines            ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
+Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.98% of written lines came from AI
-📄 Detailed Prompter — average 1,170 characters per prompt
-🔁 Iterative Prompter — average 3 prompts per session
+📄 Detailed Prompter — average 1,121 characters per prompt
+🔁 Iterative Prompter — average 2 prompts per session
 🚀 High AI Trust — 0.03% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
 
 ```text
-Python                   19 repos            ██████████░░░░░░░░░░░░░░░   38.00 % 
-TypeScript               11 repos            ██████░░░░░░░░░░░░░░░░░░░   22.00 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
-HTML                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   19.30 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.77 % 
+Go                       4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+HTML                     4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.02 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.75 % 
 ```
 
 
@@ -126,7 +126,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.23.09/23/26 13:23:25 UTC
+ Last Updated on 2026.13.09/24/26 13:13:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
