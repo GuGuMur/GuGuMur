@@ -38,21 +38,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.32 % 
-🌆 Daytime                697 commits         ██████████░░░░░░░░░░░░░░░   40.74 % 
-🌃 Evening                659 commits         ██████████░░░░░░░░░░░░░░░   38.52 % 
-🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
+🌞 Morning                245 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.08 % 
+🌆 Daytime                719 commits         ██████████░░░░░░░░░░░░░░░   41.32 % 
+🌃 Evening                666 commits         ██████████░░░░░░░░░░░░░░░   38.28 % 
+🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.32 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Thursday** 
 
 ```text
-Monday                   209 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Tuesday                  98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.73 % 
-Wednesday                138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.07 % 
-Thursday                 395 commits         ██████░░░░░░░░░░░░░░░░░░░   23.09 % 
-Friday                   269 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Saturday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Sunday                   396 commits         ██████░░░░░░░░░░░░░░░░░░░   23.14 % 
+Monday                   210 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.07 % 
+Tuesday                  98 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Wednesday                142 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.16 % 
+Thursday                 413 commits         ██████░░░░░░░░░░░░░░░░░░░   23.74 % 
+Friday                   275 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.80 % 
+Saturday                 206 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
+Sunday                   396 commits         ██████░░░░░░░░░░░░░░░░░░░   22.76 % 
 ```
 
 
@@ -62,48 +62,48 @@ Sunday                   396 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    20 hrs 22 mins      ████████████░░░░░░░░░░░░░   47.12 % 
-Markdown                 8 hrs               █████░░░░░░░░░░░░░░░░░░░░   18.54 % 
-Python                   4 hrs 35 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.62 % 
-Dart                     3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.61 % 
-Bash                     2 hrs 25 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.61 % 
+Other                    20 hrs 31 mins      █████████████░░░░░░░░░░░░   50.76 % 
+Markdown                 7 hrs 4 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.50 % 
+Python                   4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.30 % 
+Dart                     3 hrs 11 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.89 % 
+Bash                     1 hr 44 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 % 
 
 🔥 Editors: 
-Codex Vscode             19 hrs 7 mins       ███████████░░░░░░░░░░░░░░   44.24 % 
-Edge                     16 hrs 33 mins      ██████████░░░░░░░░░░░░░░░   38.29 % 
-Claude Code              5 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.14 % 
-VS Code                  2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.33 % 
+Edge                     17 hrs 25 mins      ███████████░░░░░░░░░░░░░░   43.08 % 
+Codex Vscode             17 hrs 7 mins       ███████████░░░░░░░░░░░░░░   42.35 % 
+Claude Code              3 hrs 34 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.86 % 
+VS Code                  2 hrs 18 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
 
 🐱‍💻 Projects: 
-Luotopia-app             12 hrs 6 mins       ███████░░░░░░░░░░░░░░░░░░   27.99 % 
-ehrworld                 10 hrs 8 mins       ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
-FastWrite                4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.33 % 
-Luotopia                 2 hrs 14 mins       █░░░░░░░░░░░░░░░░░░░░░░░░   05.18 % 
-lofter                   2 hrs 9 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.99 % 
+ehrworld                 10 hrs 1 min        ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
+Luotopia-app             8 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   21.28 % 
+FastWrite                4 hrs 2 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.98 % 
+arxiv-cli                2 hrs 32 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
+Luotopia                 2 hrs 7 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 26 hrs 34 mins (61.47%)
+⏱ AI Coding Time: 22 hrs 54 mins (56.65%)
 
-✍️ 21,545 lines written by AI, 7 lines written by hand (99.97% AI-written)
+✍️ 14,669 lines written by AI, 7 lines written by hand (99.95% AI-written)
 
-🔤 88,688,738 Input Tokens, 3,186,253 Output Tokens
+🔤 87,022,024 Input Tokens, 2,965,212 Output Tokens
 
-💵 $1403.67 Estimated AI Cost This Week
+💵 $1368.25 Estimated AI Cost This Week
 
-🧠 51 AI Sessions, 197 AI Prompts
+🧠 38 AI Sessions, 152 AI Prompts
 
-GPT                      6,845 lines         ████████████████████████░   95.88 % 
-Codex-Vscode             185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.59 % 
-Deepseek                 109 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.53 % 
+GPT                      6,290 lines         ████████████████████████░   95.53 % 
+Codex-Vscode             185 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   02.81 % 
+Deepseek                 109 lines           ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.97% of written lines came from AI
-📝 Concise Prompter — average 367 characters per prompt
+🤖 AI-Driven — 99.95% of written lines came from AI
+📝 Concise Prompter — average 217 characters per prompt
 🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.5% of changed lines were hand-edited
+🚀 High AI Trust — 0.73% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -123,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.39.09/29/26 14:39:50 UTC
+ Last Updated on 2026.39.09/30/26 14:39:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
