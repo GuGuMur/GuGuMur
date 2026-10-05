@@ -60,49 +60,50 @@ Sunday                   400 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    14 hrs 18 mins      ███████████████████░░░░░░   77.89 % 
-Markdown                 2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-Python                   1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.93 % 
-TypeScript               23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
-CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.56 % 
+Other                    10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.88 % 
+Python                   6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
+Markdown                 4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+TypeScript               3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
+INI                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
 
 🔥 Editors: 
-Edge                     13 hrs 51 mins      ███████████████████░░░░░░   75.50 % 
-Codex Vscode             2 hrs 24 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-Claude Code              1 hr 53 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.34 % 
-VS Code                  11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
+Claude Code              12 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.63 % 
+Edge                     8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
+Codex Vscode             4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
+VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
 
 🐱‍💻 Projects: 
-ehrworld                 3 hrs 6 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.92 % 
-arxiv-cli                2 hrs 32 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
-FastWrite                2 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.74 % 
-awesome-ebpf             1 hr 52 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.21 % 
-GuBot-TrapAction         1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.86 % 
+ehrworld                 9 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
+FastWrite                4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
+FastPPT                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+arxiv-cli                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
+GuBot-TrapAction         1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 4 hrs 29 mins (24.47%)
+⏱ AI Coding Time: 16 hrs 54 mins (65.89%)
 
-✍️ 7,046 lines written by AI, 6 lines written by hand (99.91% AI-written)
+✍️ 17,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 23,307,914 Input Tokens, 478,498 Output Tokens
+🔤 34,557,055 Input Tokens, 1,612,786 Output Tokens
 
-💵 $208.45 Estimated AI Cost This Week
+💵 $497.07 Estimated AI Cost This Week
 
-🧠 12 AI Sessions, 44 AI Prompts
+🧠 33 AI Sessions, 103 AI Prompts
 
-Opus                     6,227 lines         ███████████████████████░░   92.16 % 
-Deepseek                 530 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   07.84 % 
-GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-Opencode-Cli             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Opus                     12,204 lines        ███████████████████████░░   91.94 % 
+GPT                      540 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
+Deepseek                 530 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
-🤖 AI-Driven — 99.91% of written lines came from AI
-📝 Concise Prompter — average 292 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.08% of changed lines were hand-edited
+🤖 AI-Driven — 100.0% of written lines came from AI
+📝 Concise Prompter — average 227 characters per prompt
+🔁 Iterative Prompter — average 3 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.43.10/04/26 13:43:14 UTC
+ Last Updated on 2026.50.10/05/26 16:50:25 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
