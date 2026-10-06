@@ -60,43 +60,43 @@ Sunday                   400 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    10 hrs 45 mins      ██████████░░░░░░░░░░░░░░░   41.88 % 
-Python                   6 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   25.30 % 
-Markdown                 4 hrs 28 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
-TypeScript               3 hrs 36 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.06 % 
-INI                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.48 % 
+Other                    9 hrs 44 mins       ██████████████░░░░░░░░░░░   56.56 % 
+Python                   4 hrs 27 mins       ██████░░░░░░░░░░░░░░░░░░░   25.84 % 
+Markdown                 2 hrs 45 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.97 % 
+INI                      7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+CSS                      6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
 
 🔥 Editors: 
-Claude Code              12 hrs 13 mins      ████████████░░░░░░░░░░░░░   47.63 % 
-Edge                     8 hrs 45 mins       █████████░░░░░░░░░░░░░░░░   34.09 % 
-Codex Vscode             4 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-VS Code                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 % 
+Edge                     7 hrs 34 mins       ███████████░░░░░░░░░░░░░░   43.94 % 
+Claude Code              6 hrs 53 mins       ██████████░░░░░░░░░░░░░░░   40.02 % 
+Codex Vscode             2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
 
 🐱‍💻 Projects: 
-ehrworld                 9 hrs 20 mins       █████████░░░░░░░░░░░░░░░░   36.38 % 
-FastWrite                4 hrs               ████░░░░░░░░░░░░░░░░░░░░░   15.59 % 
-FastPPT                  2 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
-arxiv-cli                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.26 % 
-GuBot-TrapAction         1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.06 % 
+ehrworld                 6 hrs 5 mins        █████████░░░░░░░░░░░░░░░░   35.38 % 
+FastPPT                  2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.69 % 
+arxiv-cli                1 hr 51 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
+GuBot-TrapAction         1 hr 33 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+gugumur                  1 hr 31 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.88 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 16 hrs 54 mins (65.89%)
+⏱ AI Coding Time: 9 hrs 38 mins (56.03%)
 
-✍️ 17,385 lines written by AI, 0 lines written by hand (100.0% AI-written)
+✍️ 9,740 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 34,557,055 Input Tokens, 1,612,786 Output Tokens
+🔤 24,508,756 Input Tokens, 839,799 Output Tokens
 
-💵 $497.07 Estimated AI Cost This Week
+💵 $367.49 Estimated AI Cost This Week
 
-🧠 33 AI Sessions, 103 AI Prompts
+🧠 21 AI Sessions, 61 AI Prompts
 
-Opus                     12,204 lines        ███████████████████████░░   91.94 % 
-GPT                      540 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   04.07 % 
-Deepseek                 530 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   03.99 % 
+Opus                     8,864 lines         ████████████████████████░   94.36 % 
+Deepseek                 530 lines           █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
 Codex-Vscode             0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+GPT                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Sonnet                   0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
@@ -123,7 +123,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.50.10/05/26 16:50:25 UTC
+ Last Updated on 2026.47.10/06/26 14:47:29 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
