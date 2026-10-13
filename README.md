@@ -23,7 +23,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 162.0 kB Used in GitHub's Storage 
+> 📦 162.1 kB Used in GitHub's Storage 
  > 
 > 🏆 943 Contributions in the Year 2026
  > 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                289 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.39 % 
-🌆 Daytime                640 commits         █████████░░░░░░░░░░░░░░░░   36.30 % 
-🌃 Evening                724 commits         ██████████░░░░░░░░░░░░░░░   41.07 % 
-🌙 Night                  110 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.24 % 
+🌞 Morning                461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
+🌆 Daytime                773 commits         ████████░░░░░░░░░░░░░░░░░   31.46 % 
+🌃 Evening                1113 commits        ███████████░░░░░░░░░░░░░░   45.30 % 
+🌙 Night                  110 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
 ```
-📅 **I'm Most Productive on Sunday** 
+📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   222 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.59 % 
-Tuesday                  119 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.75 % 
-Wednesday                117 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.64 % 
-Thursday                 342 commits         █████░░░░░░░░░░░░░░░░░░░░   19.40 % 
-Friday                   313 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.75 % 
-Saturday                 228 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Sunday                   422 commits         ██████░░░░░░░░░░░░░░░░░░░   23.94 % 
+Monday                   308 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.54 % 
+Tuesday                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.59 % 
+Wednesday                160 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.51 % 
+Thursday                 385 commits         ████░░░░░░░░░░░░░░░░░░░░░   15.67 % 
+Friday                   571 commits         ██████░░░░░░░░░░░░░░░░░░░   23.24 % 
+Saturday                 314 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.78 % 
+Sunday                   508 commits         █████░░░░░░░░░░░░░░░░░░░░   20.68 % 
 ```
 
 
@@ -60,31 +60,31 @@ Sunday                   422 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   28.01 % 
-Other                    8 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   22.65 % 
-Markdown                 6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.77 % 
-Diff                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.77 % 
-Python                   3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.69 % 
+TypeScript               10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.36 % 
+Other                    9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
+Markdown                 6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
+Diff                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
+Python                   3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 47 mins      ███████████░░░░░░░░░░░░░░   42.10 % 
-Claude Code              12 hrs 51 mins      █████████░░░░░░░░░░░░░░░░   34.29 % 
-Edge                     8 hrs 43 mins       ██████░░░░░░░░░░░░░░░░░░░   23.28 % 
+Codex Vscode             15 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.13 % 
+Claude Code              12 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.50 % 
+Edge                     9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
 VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
 ZCode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-FastPPT                  14 hrs 20 mins      ██████████░░░░░░░░░░░░░░░   38.26 % 
-traj-evolve              12 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   33.34 % 
-FastWrite                4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-OpenList                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.58 % 
-tailscale                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+FastPPT                  15 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   39.69 % 
+traj-evolve              12 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   32.57 % 
+FastWrite                4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
+OpenList                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
+tailscale                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 43 mins (76.58%)
+⏱ AI Coding Time: 28 hrs 43 mins (74.81%)
 
 ✍️ 9,800 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
@@ -124,7 +124,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.24.10/12/26 17:24:05 UTC
+ Last Updated on 2026.37.10/13/26 15:37:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
