@@ -25,7 +25,7 @@
 
 > 📦 162.1 kB Used in GitHub's Storage 
  > 
-> 🏆 943 Contributions in the Year 2026
+> 🏆 946 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -60,51 +60,51 @@ Sunday                   508 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-TypeScript               10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   27.36 % 
-Other                    9 hrs 22 mins       ██████░░░░░░░░░░░░░░░░░░░   24.44 % 
-Markdown                 6 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.38 % 
-Diff                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.47 % 
-Python                   3 hrs 15 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.49 % 
+Other                    11 hrs 12 mins      ███████░░░░░░░░░░░░░░░░░░   28.71 % 
+TypeScript               10 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   26.90 % 
+Markdown                 5 hrs 41 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+Diff                     4 hrs 47 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.26 % 
+Python                   2 hrs 50 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
 
 🔥 Editors: 
-Codex Vscode             15 hrs 47 mins      ██████████░░░░░░░░░░░░░░░   41.13 % 
-Claude Code              12 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   33.50 % 
-Edge                     9 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.06 % 
-VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+Codex Vscode             14 hrs 33 mins      █████████░░░░░░░░░░░░░░░░   37.29 % 
+Claude Code              12 hrs 51 mins      ████████░░░░░░░░░░░░░░░░░   32.93 % 
+Edge                     11 hrs 30 mins      ███████░░░░░░░░░░░░░░░░░░   29.47 % 
+VS Code                  5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.25 % 
 ZCode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 % 
 
 🐱‍💻 Projects: 
-FastPPT                  15 hrs 14 mins      ██████████░░░░░░░░░░░░░░░   39.69 % 
-traj-evolve              12 hrs 30 mins      ████████░░░░░░░░░░░░░░░░░   32.57 % 
-FastWrite                4 hrs 9 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.84 % 
-OpenList                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.47 % 
-tailscale                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+FastPPT                  15 hrs 16 mins      ██████████░░░░░░░░░░░░░░░   39.11 % 
+traj-evolve              11 hrs 34 mins      ███████░░░░░░░░░░░░░░░░░░   29.66 % 
+FastWrite                6 hrs 24 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.42 % 
+OpenList                 1 hr 43 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.40 % 
+tailscale                1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 28 hrs 43 mins (74.81%)
+⏱ AI Coding Time: 27 hrs 29 mins (70.4%)
 
-✍️ 9,800 lines written by AI, 1 lines written by hand (99.99% AI-written)
+✍️ 8,899 lines written by AI, 1 lines written by hand (99.99% AI-written)
 
-🔤 56,474,864 Input Tokens, 3,438,821 Output Tokens
+🔤 54,912,307 Input Tokens, 3,346,665 Output Tokens
 
-💵 $2380.47 Estimated AI Cost This Week
+💵 $2352.31 Estimated AI Cost This Week
 
-🧠 24 AI Sessions, 99 AI Prompts
+🧠 19 AI Sessions, 93 AI Prompts
 
-GPT                      7,530 lines         ███████████████████░░░░░░   75.63 % 
-Opus                     1,543 lines         ████░░░░░░░░░░░░░░░░░░░░░   15.50 % 
-DeepSeek                 883 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   08.87 % 
+GPT                      6,629 lines         ██████████████████░░░░░░░   73.21 % 
+Opus                     1,543 lines         ████░░░░░░░░░░░░░░░░░░░░░   17.04 % 
+DeepSeek                 883 lines           ██░░░░░░░░░░░░░░░░░░░░░░░   09.75 % 
 GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Claude-Code              0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 99.99% of written lines came from AI
-📄 Detailed Prompter — average 1,095 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
-🚀 High AI Trust — 0.44% of changed lines were hand-edited
+📄 Detailed Prompter — average 1,160 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
+🚀 High AI Trust — 0.48% of changed lines were hand-edited
 ```
 
 **I Mostly Code in Python** 
@@ -124,7 +124,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.37.10/13/26 15:37:38 UTC
+ Last Updated on 2026.21.10/14/26 13:21:42 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
