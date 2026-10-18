@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C053%20hrs%2047%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C054%20hrs%2058%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -25,11 +25,11 @@
 
 > 📦 162.1 kB Used in GitHub's Storage 
  > 
-> 🏆 967 Contributions in the Year 2026
+> 🏆 968 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 79 Public Repositories 
+> 📜 80 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
@@ -60,49 +60,24 @@ Sunday                   510 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    8 hrs 50 mins       ██████████░░░░░░░░░░░░░░░   40.86 % 
-Diff                     4 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   22.07 % 
-Markdown                 3 hrs 58 mins       █████░░░░░░░░░░░░░░░░░░░░   18.35 % 
-Python                   2 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
-JSON                     1 hr 32 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.13 % 
+Other                    13 hrs 4 mins       █████████████████████░░░░   82.01 % 
+Markdown                 2 hrs 52 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
 
 🔥 Editors: 
-Edge                     10 hrs 3 mins       ████████████░░░░░░░░░░░░░   46.50 % 
-Claude Code              9 hrs 25 mins       ███████████░░░░░░░░░░░░░░   43.53 % 
-Codex Vscode             2 hrs 6 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.73 % 
-VS Code                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-ZCode                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
+Edge                     15 hrs 56 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-traj-evolve              9 hrs 20 mins       ███████████░░░░░░░░░░░░░░   43.18 % 
-FastPPT                  3 hrs 38 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.83 % 
-FastWrite                3 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.87 % 
-Luotopia-Server          1 hr 44 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 % 
-wemu                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.35 % 
+FastWrite                3 hrs 25 mins       █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
+Luotopia-app             3 hrs 11 mins       █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+magpie                   2 hrs 57 mins       █████░░░░░░░░░░░░░░░░░░░░   18.52 % 
+Luotopia-Server          1 hr 44 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.93 % 
+wemu                     1 hr 35 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 11 hrs 34 mins (53.49%)
-
-✍️ 921 lines written by AI, 1 lines written by hand (99.89% AI-written)
-
-🔤 3,993,255 Input Tokens, 1,537,434 Output Tokens
-
-💵 $1025.35 Estimated AI Cost This Week
-
-🧠 11 AI Sessions, 55 AI Prompts
-
-DeepSeek                 883 lines           ████████████████████████░   95.36 % 
-GPT                      43 lines            █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
-GLM                      0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 99.89% of written lines came from AI
-📚 Verbose Prompter — average 1,891 characters per prompt
-🔁 Iterative Prompter — average 5 prompts per session
-🚀 High AI Trust — 4.54% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -122,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.01.10/17/26 12:01:28 UTC
+ Last Updated on 2026.30.10/18/26 12:30:01 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
