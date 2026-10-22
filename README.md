@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2024%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2025%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -23,34 +23,34 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 163.0 kB Used in GitHub's Storage 
+> 📦 177.9 kB Used in GitHub's Storage 
  > 
-> 🏆 975 Contributions in the Year 2026
+> 🏆 981 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
-> 📜 82 Public Repositories 
+> 📜 83 Public Repositories 
  > 
 > 🔑 8 Private Repositories 
  > 
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.12 % 
-🌆 Daytime                824 commits         ████████░░░░░░░░░░░░░░░░░   32.39 % 
-🌃 Evening                1141 commits        ███████████░░░░░░░░░░░░░░   44.85 % 
-🌙 Night                  118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 % 
+🌞 Morning                461 commits         █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
+🌆 Daytime                824 commits         ████████░░░░░░░░░░░░░░░░░   32.35 % 
+🌃 Evening                1144 commits        ███████████░░░░░░░░░░░░░░   44.92 % 
+🌙 Night                  118 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   04.63 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.22 % 
-Tuesday                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Wednesday                163 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.41 % 
-Thursday                 420 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.51 % 
-Friday                   599 commits         ██████░░░░░░░░░░░░░░░░░░░   23.55 % 
-Saturday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
-Sunday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   20.28 % 
+Monday                   311 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
+Tuesday                  211 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   08.28 % 
+Wednesday                164 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.44 % 
+Thursday                 422 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.57 % 
+Friday                   599 commits         ██████░░░░░░░░░░░░░░░░░░░   23.52 % 
+Saturday                 324 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.72 % 
+Sunday                   516 commits         █████░░░░░░░░░░░░░░░░░░░░   20.26 % 
 ```
 
 
@@ -60,18 +60,18 @@ Sunday                   516 commits         █████░░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    26 hrs 11 mins      ██████████████████████░░░   86.79 % 
-Markdown                 3 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.21 % 
+Other                    28 hrs 1 min        ██████████████████████░░░   86.86 % 
+Markdown                 4 hrs 14 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
 
 🔥 Editors: 
-Edge                     30 hrs 11 mins      █████████████████████████   100.00 % 
+Edge                     32 hrs 16 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whucs-experiment-typst   7 hrs 37 mins       ██████░░░░░░░░░░░░░░░░░░░   25.25 % 
-magpie                   7 hrs 3 mins        ██████░░░░░░░░░░░░░░░░░░░   23.38 % 
-Luotopia-app             4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.06 % 
-Luotopia-Server          1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.82 % 
-wemu                     1 hr 35 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+whucs-experiment-typst   9 hrs               ███████░░░░░░░░░░░░░░░░░░   27.92 % 
+magpie                   7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   21.88 % 
+Luotopia-app             4 hrs 50 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.03 % 
+Luotopia-Server          1 hr 45 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   05.45 % 
+astro-zentyp             1 hr 28 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.55 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -83,11 +83,11 @@ No AI Coding Activity Tracked This Week
 **I Mostly Code in Python** 
 
 ```text
-TypeScript               10 repos            ████░░░░░░░░░░░░░░░░░░░░░   16.95 % 
-Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.47 % 
-Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
-CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.69 % 
+TypeScript               11 repos            █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Go                       5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Vue                      5 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 % 
+Typst                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
+CSS                      1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.64 % 
 ```
 
 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.28.10/21/26 13:28:12 UTC
+ Last Updated on 2026.30.10/22/26 13:30:16 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
