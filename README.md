@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C057%20hrs%2044%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2026%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.31 % 
-🌆 Daytime                661 commits         ████████░░░░░░░░░░░░░░░░░   33.23 % 
-🌃 Evening                914 commits         ███████████░░░░░░░░░░░░░░   45.95 % 
+🌞 Morning                384 commits         █████░░░░░░░░░░░░░░░░░░░░   19.29 % 
+🌆 Daytime                662 commits         ████████░░░░░░░░░░░░░░░░░   33.25 % 
+🌃 Evening                915 commits         ███████████░░░░░░░░░░░░░░   45.96 % 
 🌙 Night                  30 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.51 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.06 % 
-Tuesday                  202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.16 % 
-Wednesday                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.39 % 
-Thursday                 266 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.37 % 
-Friday                   504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.34 % 
-Saturday                 214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
-Sunday                   456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.93 % 
+Monday                   200 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.05 % 
+Tuesday                  202 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.15 % 
+Wednesday                147 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.38 % 
+Thursday                 267 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
+Friday                   504 commits         ██████░░░░░░░░░░░░░░░░░░░   25.31 % 
+Saturday                 214 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+Sunday                   457 commits         ██████░░░░░░░░░░░░░░░░░░░   22.95 % 
 ```
 
 
@@ -60,18 +60,18 @@ Sunday                   456 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    34 hrs 30 mins      ██████████████████████░░░   88.14 % 
-Markdown                 4 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Other                    38 hrs 43 mins      ██████████████████████░░░   88.79 % 
+Markdown                 4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
 
 🔥 Editors: 
-Edge                     39 hrs 9 mins       █████████████████████████   100.00 % 
+Edge                     43 hrs 36 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-whucs-experiment-typst   9 hrs               ██████░░░░░░░░░░░░░░░░░░░   23.02 % 
-magpie                   7 hrs 3 mins        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-astro-zentyp             5 hrs 5 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.99 % 
-Luotopia-app             4 hrs 50 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-nonebot_plugin_analysis_b2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+magpie                   10 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
+whucs-experiment-typst   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
+astro-zentyp             6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+Luotopia-app             4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
+nonebot_plugin_analysis_b2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.07.10/23/26 13:07:52 UTC
+ Last Updated on 2026.30.10/24/26 12:30:20 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
