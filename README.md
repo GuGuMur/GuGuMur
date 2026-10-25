@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C058%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C059%20hrs%2051%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -60,18 +60,18 @@ Sunday                   457 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    38 hrs 43 mins      ██████████████████████░░░   88.79 % 
-Markdown                 4 hrs 53 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
+Other                    40 hrs 36 mins      ███████████████████████░░   91.52 % 
+Markdown                 3 hrs 45 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.48 % 
 
 🔥 Editors: 
-Edge                     43 hrs 36 mins      █████████████████████████   100.00 % 
+Edge                     44 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-magpie                   10 hrs 20 mins      ██████░░░░░░░░░░░░░░░░░░░   23.72 % 
-whucs-experiment-typst   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.85 % 
-astro-zentyp             6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
-Luotopia-app             4 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.57 % 
-nonebot_plugin_analysis_b2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.37 % 
+whucs-experiment-typst   9 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   20.49 % 
+magpie                   7 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.66 % 
+SenseNova-RoboRSI        6 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.82 % 
+astro-zentyp             6 hrs 27 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.57 % 
+nonebot_plugin_analysis_b2 hrs 46 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.27 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.30.10/24/26 12:30:20 UTC
+ Last Updated on 2026.00.10/25/26 13:00:33 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
