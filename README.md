@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%207%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2056%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -60,18 +60,18 @@ Sunday                   456 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    38 hrs 59 mins      ██████████████████████░░░   89.61 % 
-Markdown                 4 hrs 31 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+Other                    37 hrs 36 mins      ██████████████████████░░░   86.73 % 
+Markdown                 5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
 
 🔥 Editors: 
-Edge                     43 hrs 30 mins      █████████████████████████   100.00 % 
+Edge                     43 hrs 21 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SenseNova-RoboRSI        10 hrs              ██████░░░░░░░░░░░░░░░░░░░   22.99 % 
-coder_books              7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.65 % 
-astro-zentyp             4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.48 % 
-GuBot-TrapAction         3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
-magpie                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.55 % 
+SenseNova-RoboRSI        10 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
+coder_books              7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
+astro-zentyp             4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
+GuBot-TrapAction         3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
+magpie                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.55.10/28/26 14:55:28 UTC
+ Last Updated on 2026.00.10/29/26 15:00:38 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
