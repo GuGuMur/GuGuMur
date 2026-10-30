@@ -15,11 +15,11 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C061%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2030%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue?style=flat)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -60,18 +60,18 @@ Sunday                   456 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    37 hrs 36 mins      ██████████████████████░░░   86.73 % 
-Markdown                 5 hrs 45 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.27 % 
+Other                    31 hrs              █████████████████████░░░░   85.42 % 
+Markdown                 5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
 
 🔥 Editors: 
-Edge                     43 hrs 21 mins      █████████████████████████   100.00 % 
+Edge                     36 hrs 18 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SenseNova-RoboRSI        10 hrs              ██████░░░░░░░░░░░░░░░░░░░   23.07 % 
-coder_books              7 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.71 % 
-astro-zentyp             4 hrs 59 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-GuBot-TrapAction         3 hrs 43 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-magpie                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.57 % 
+SenseNova-RoboRSI        10 hrs              ███████░░░░░░░░░░░░░░░░░░   27.56 % 
+coder_books              7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
+GuBot-TrapAction         3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
+magpie                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
+generic-pixel-svg-rebuild2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.00.10/29/26 15:00:38 UTC
+ Last Updated on 2026.52.10/30/26 14:52:48 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
