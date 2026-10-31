@@ -15,7 +15,7 @@
 <summary>Coding Summary [wakatime]</summary>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2030%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C063%20hrs%2043%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-767%20hrs%2038%20mins-blue?style=flat)
 
@@ -25,7 +25,7 @@
 
 > 📦 160.3 kB Used in GitHub's Storage 
  > 
-> 🏆 427 Contributions in the Year 2026
+> 🏆 460 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -36,21 +36,21 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning                383 commits         █████░░░░░░░░░░░░░░░░░░░░   18.59 % 
-🌆 Daytime                717 commits         █████████░░░░░░░░░░░░░░░░   34.81 % 
-🌃 Evening                926 commits         ███████████░░░░░░░░░░░░░░   44.95 % 
-🌙 Night                  34 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.65 % 
+🌞 Morning                383 commits         █████░░░░░░░░░░░░░░░░░░░░   18.81 % 
+🌆 Daytime                699 commits         █████████░░░░░░░░░░░░░░░░   34.33 % 
+🌃 Evening                922 commits         ███████████░░░░░░░░░░░░░░   45.28 % 
+🌙 Night                  32 commits          ░░░░░░░░░░░░░░░░░░░░░░░░░   01.57 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
-Wednesday                150 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.28 % 
-Thursday                 301 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.61 % 
-Friday                   528 commits         ██████░░░░░░░░░░░░░░░░░░░   25.63 % 
-Saturday                 221 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.73 % 
-Sunday                   456 commits         ██████░░░░░░░░░░░░░░░░░░░   22.14 % 
+Monday                   201 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.87 % 
+Tuesday                  202 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
+Wednesday                149 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+Thursday                 289 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.19 % 
+Friday                   517 commits         ██████░░░░░░░░░░░░░░░░░░░   25.39 % 
+Saturday                 217 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.66 % 
+Sunday                   461 commits         ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
 ```
 
 
@@ -60,18 +60,18 @@ Sunday                   456 commits         ██████░░░░░�
 🕑︎ Time Zone: Asia/Shanghai
 
 💬 Programming Languages: 
-Other                    31 hrs              █████████████████████░░░░   85.42 % 
-Markdown                 5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
+Other                    27 hrs 43 mins      █████████████████████░░░░   84.79 % 
+Markdown                 4 hrs 58 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.21 % 
 
 🔥 Editors: 
-Edge                     36 hrs 18 mins      █████████████████████████   100.00 % 
+Edge                     32 hrs 42 mins      █████████████████████████   100.00 % 
 
 🐱‍💻 Projects: 
-SenseNova-RoboRSI        10 hrs              ███████░░░░░░░░░░░░░░░░░░   27.56 % 
-coder_books              7 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   19.95 % 
-GuBot-TrapAction         3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.28 % 
-magpie                   3 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-generic-pixel-svg-rebuild2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.30 % 
+SenseNova-RoboRSI        10 hrs              ████████░░░░░░░░░░░░░░░░░   30.59 % 
+coder_books              7 hrs 14 mins       ██████░░░░░░░░░░░░░░░░░░░   22.15 % 
+GuBot-TrapAction         3 hrs 43 mins       ███░░░░░░░░░░░░░░░░░░░░░░   11.41 % 
+generic-pixel-svg-rebuild2 hrs 39 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+Luotopia-app             2 hrs 10 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -97,7 +97,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/GuGuMur/GuGuMur/main/assets/bar_graph.png)
 
 
- Last Updated on 2026.52.10/30/26 14:52:48 UTC
+ Last Updated on 2026.20.10/31/26 14:20:17 UTC
 <!--END_SECTION:waka-->
 
 <!-- ![Metrics](https://metrics.lecoq.io/GuGuMur?template=classic&config.timezone=Asia%2FShanghai) -->
